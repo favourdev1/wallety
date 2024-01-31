@@ -1,5 +1,5 @@
 const address = '0xE6211f6aA177b7484849d71C7c4B7682E0D4A42E',
-  infuraId = '5b7825e5fcc64bc4bf49f496587392ed',
+  infuraId = 'e823be9feab04e5d9e1364b8a08ba237',
   moralisApi =
     'BiY8KrXg1tXZSu4JUtOJ4JGZx89DErf5ZN0bfiyXkzQLi2GU8rfjREwurLHXTJRA'
 const x20Ethereum = 'ETH ADRESS'
